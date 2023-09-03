@@ -7,7 +7,7 @@ import Integration from './Integration'
 function App() {
   return (
     <>
-      <Register/>
+      <Register />
     </>
         
   );
